@@ -1,0 +1,40 @@
+{
+  "name": "coffeelint-min-colon-spacing",
+  "version": "0.1.1",
+  "description": "Validate a minimum spacing left and right of a colon assignment",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scalableminds/coffeelint-min-colon-spacing.git"
+  },
+  "keywords": [
+    "coffeelint",
+    "coffeelintrule",
+    "coffee-lint",
+    "newline",
+    "rule"
+  ],
+  "author": {
+    "name": "Tom Herold",
+    "email": "tom.herold@scm.io",
+    "url": "http://scm.io"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/scalableminds/coffeelint-min-colon-spacing/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "homepage": "https://github.com/scalableminds/coffeelint-min-colon-spacing",
+  "peerDependencies": {
+    "coffeelint": "~1.1"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.7.0"
+  }
+}
