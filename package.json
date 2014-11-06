@@ -1,6 +1,6 @@
 {
   "name": "coffeelint-min-colon-spacing",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Validate a minimum spacing left and right of a colon assignment",
   "main": "index.js",
   "repository": {
@@ -32,9 +32,9 @@
   },
   "homepage": "https://github.com/scalableminds/coffeelint-min-colon-spacing",
   "peerDependencies": {
-    "coffeelint": "~1.1"
+    "coffeelint": "*"
   },
   "devDependencies": {
-    "coffee-script": "~1.7.0"
+    "coffee-script": "*"
   }
 }

@@ -79,6 +79,6 @@ module.exports = class MinColonSpacing
             context :
                 """
                 Incorrect spacing around column #{token[2].first_column}.
-                Minimum Expected left: #{spacingAllowances.left}, right: -#{spacingAllowances.right}.
+                Minimum Expected left: #{spacingAllowances.left}, right: #{spacingAllowances.right}.
                 Got left: #{leftSpacing}, right: #{rightSpacing}
                 """

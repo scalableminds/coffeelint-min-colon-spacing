@@ -19,12 +19,12 @@ Insert the below configuration into *coffeelint.json* that you use for linting y
 
 ```js
 "min_colon_spacing": {
-    "module": "coffeelint-min-colon-spacing"
+    "module": "coffeelint-min-colon-spacing",
     "spacing": {
       "left" : 1,
       "right" : 1
     },
-    "level": "error",
+    "level": "error"
 }
 ```
 ## Example
